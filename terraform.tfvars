@@ -1,0 +1,7 @@
+aws_region        = "ap-south-1"
+ami_id            = "ami-0f5ee92e2d63afc18"
+subnet_id         = "subnet-081b71013b8fb9797"
+instance_type     = "t2.micro"
+key_name          = "ubuntu-pemkey"
+availability_zone = "ap-south-1b"
+instance_name     = "Jenkins-Server"
